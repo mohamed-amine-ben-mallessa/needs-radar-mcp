@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/python-%E2%89%A53.8-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/dependencies-0-brightgreen" alt="Zero dependencies">
   <img src="https://img.shields.io/badge/license-MIT-yellow" alt="MIT">
+  <img src="https://img.shields.io/badge/status-unofficial-lightgrey" alt="Unofficial">
+</p>
+
+<p align="center">
+  <!-- Demo: a GIF of Claude Code scanning prospects through this MCP. See assets/README.md to record one. -->
+  <img src="assets/demo.gif" alt="Claude Code using the Needs Radar MCP" width="720">
 </p>
 
 ---
@@ -126,6 +132,28 @@ The server stays focused (signal detection); enrichment and reasoning live in th
 ## Roadmap
 
 See **[BRAINSTORM.md](./BRAINSTORM.md)** — automatic registry/open-data enrichment, an LLM `analyze_prospect` tool (need + angle + drafted message), multi-source scanning (beyond France Travail), and scheduled "new needs in my zone" alerts.
+
+## Data source
+
+Built on the official **France Travail** *Offres d'emploi v2* API
+([francetravail.io](https://francetravail.io)). The job data is provided by France Travail;
+this project only calls their public API and analyzes the results.
+
+## Built by & used by
+
+Created and maintained by **Mohamed Amine Ben Mallessa**.
+
+- 🏢 **[Sollea AI](https://sollea-ai.com)** — used in production.
+- 🎯 **[Soléane](https://sol-ane.vercel.app/)** — B2B prospecting & outsourced sales firm,
+  using Needs Radar for live hiring-signal prospecting.
+
+## Disclaimer
+
+> **Unofficial project.** Independent, open-source MCP server. **Not developed, affiliated with,
+> sponsored, or endorsed by France Travail.** "France Travail" / "Pôle Emploi" and their logos
+> are trademarks of their respective owners. This project only consumes France Travail's public
+> API under their terms of use. For **legitimate, personalized B2B prospecting only** — respect
+> the API conditions, rate limits, and applicable data-protection rules (GDPR).
 
 ## License
 
