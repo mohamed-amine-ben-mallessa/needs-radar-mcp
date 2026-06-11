@@ -1,0 +1,21 @@
+{
+  "name": "needs-radar",
+  "description": "Turn job postings into a ranked list of companies that need what you sell. Scans hiring signals by zone/sector, groups by company, scores need intensity. Reverse B2B prospecting from the official France Travail API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mohamed Amine Ben Mallessa"
+  },
+  "license": "MIT",
+  "keywords": ["prospecting", "b2b", "leads", "hiring-signals", "sales", "france-travail", "mcp"],
+  "mcpServers": {
+    "needs-radar": {
+      "command": "python",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server.py"],
+      "env": {
+        "FT_CLIENT_ID": "${FT_CLIENT_ID}",
+        "FT_CLIENT_SECRET": "${FT_CLIENT_SECRET}",
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}

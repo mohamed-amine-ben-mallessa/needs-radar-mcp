@@ -1,0 +1,13 @@
+{
+  "name": "needs-radar-marketplace",
+  "owner": {
+    "name": "Mohamed Amine Ben Mallessa"
+  },
+  "plugins": [
+    {
+      "name": "needs-radar",
+      "source": "./",
+      "description": "Reverse B2B prospecting: detect company needs from job postings, ranked by signal intensity. Built on the official France Travail API. Zero dependencies."
+    }
+  ]
+}
