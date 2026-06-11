@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <!-- Demo: a GIF of Claude Code scanning prospects through this MCP. See assets/README.md to record one. -->
-  <img src="assets/demo.gif" alt="Claude Code using the Needs Radar MCP" width="720">
+  <a href="media/launch-video-portrait.mp4"><img src="media/launch-preview-portrait.gif" alt="Needs Radar MCP — launch video" width="320"></a>
 </p>
+<p align="center"><sub>▶️ <a href="media/launch-video-portrait.mp4">Watch the full 60s vertical launch video (MP4)</a> · rendered with <a href="https://hyperframes.heygen.com">HyperFrames</a></sub></p>
 
 ---
 
