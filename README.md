@@ -13,9 +13,18 @@
 </p>
 
 <p align="center">
-  <a href="media/launch-video-portrait.mp4"><img src="media/launch-preview-portrait.gif" alt="Needs Radar MCP — launch video" width="320"></a>
+  <a href="media/launch-video-portrait.mp4"><img src="media/launch-preview-portrait.gif" alt="Needs Radar MCP — launch video" width="300"></a>
 </p>
 <p align="center"><sub>▶️ <a href="media/launch-video-portrait.mp4">Watch the full 60s vertical launch video (MP4)</a> · rendered with <a href="https://hyperframes.heygen.com">HyperFrames</a></sub></p>
+
+<p align="center">
+  <img src="assets/logo-france-travail-io.svg" alt="France Travail" height="38">
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="assets/logo-sollea.png" alt="Sollea AI" height="38">
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="assets/claude-code.gif" alt="Claude Code" height="44">
+</p>
+<p align="center"><sub>data: <a href="https://francetravail.io">France Travail</a> · built by <a href="https://sollea-ai.com">Sollea AI</a> · works in <a href="https://claude.com/claude-code">Claude Code</a> & any MCP client</sub></p>
 
 ---
 
